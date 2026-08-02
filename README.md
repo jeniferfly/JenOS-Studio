@@ -4,7 +4,7 @@
 
 JenOS Studio is the development companion to ZenVault.
 
-It provides a professional workspace for building reusable eLearning components, documentation, AI workflows, design systems, and productivity tools.
+It provides a professional workspace for building reusable design components, documentation, AI workflows, design systems, and productivity tools.
 
 ---
 
