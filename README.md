@@ -2,7 +2,7 @@
 
 > Build once. Improve forever.
 
-JenOS Studio is the development companion to ZenVault.
+JenOS Studio is the design and development companion to ZenVault.
 
 It provides a professional workspace for building reusable design components, documentation, AI workflows, design systems, and productivity tools.
 
