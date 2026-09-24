@@ -6,7 +6,7 @@ preserving the original meaning and intent.
 
 ## Overview
 
-`remove-ai-marks-chatgpt-v2` explores how reusable ChatGPT Skills can be
+`remove-ai-marks-chatgpt` explores how reusable ChatGPT Skills can be
 used to apply a consistent writing-refinement workflow.
 
 The goal is not simply to make text "sound human." Instead, the Skill is
@@ -71,7 +71,7 @@ something reusable rather than recreate it from scratch each time.
 ## Project Structure
 
 ``` text
-remove-ai-marks-chatgpt-v2/
+remove-ai-marks-chatgpt-skill/
 ├── SKILL.md
 ├── README.md
 └── supporting skill files
