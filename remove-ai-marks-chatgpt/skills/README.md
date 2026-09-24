@@ -1,4 +1,4 @@
-# Remove AI Marks --- ChatGPT Skill
+# Remove AI Marks - ChatGPT Skill
 
 A custom ChatGPT Skill experiment designed to reduce common AI-writing
 patterns and produce clearer, more natural-sounding language while
