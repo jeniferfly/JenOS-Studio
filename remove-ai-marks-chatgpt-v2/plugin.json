@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "remove-ai-marks-chatgpt",
+  "version": "2.0.0",
+  "description": "ChatGPT-native text hygiene and natural rewriting workflow with accurate reporting of what was actually changed.",
+  "author": {
+    "name": "Personal Skill"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Remove AI Marks",
+        "shortDescription": "Clean and naturalize text",
+        "longDescription": "A self-contained ChatGPT workflow for inspecting text for unnecessary invisible characters and rewriting formulaic prose more naturally while preserving meaning. It does not claim to prove human authorship or guarantee detector evasion.",
+        "developerName": "Personal Skill",
+        "category": "Productivity",
+        "capabilities": [
+          "Inspect pasted text for unnecessary invisible or control characters",
+          "Rewrite formulaic prose in clearer, more natural language",
+          "Preserve facts, names, numbers, citations, URLs, and technical identifiers"
+        ]
+      }
+    }
+  }
+}
